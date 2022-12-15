@@ -380,34 +380,13 @@ Lanciate 1 volta al giorno, o quando l'equipaggio rompe lo status quo nell'ambie
 
 
 ## Consigli per l'arbitro
-Any Planet Is Earth does not have
-strictly defined boundaries. The pivotal
-centerpiece of adventure is maintaining
-verisimilitude, consistency, and an
-unbroken chain of causality. As the crew
-travels to and fro, they will find that
-the entire galaxy is open and without
-absolute limits. Irrelevant minutiae can
-be waved aside, as what matters are the
-decisions, complications, and
-consequences of the players' vectors
-from point A to point B. Consider that
-“money” in a truly interstellar context
-is fluid, hard to qualify, and
-impossible to master. Goods and services
-vary in demand to the extremes from port
-to port, world to world, system to
-system.
-Let a PC swindle a merchant or sincerely
-ply their trade in serious honesty. Let
-a PC one-shot a heavily-armed merc with
-a knife because the opportunity
-presented itself and the player opted to
-capitalize on it, perhaps at great risk.
-Keep crew debt in mind at all times.
-Depending on the creditor, debt may be a
-pressing vise or a long-burning fuse.
-Player Advice
+Any Planet Is Earth non ha limiti ben definiti. Il fulcro dell'avventura sono la verosimiglianza, la consistenza e la catena initerrotta di causalità. Mentre l'equipaggio viaggia, scoprirà ce l'intera galassia è aperta e senza confini. Le minuzie irrilevanti possono essere messe da parte, dato che ciò che conta sono le decisioni, le complicazioni e le conseguenze degli spostamenti dei giocatori. Considerate che il "denaro" è fluido in un contesto di spazio interstellare, difficile da definire e impossibile da padroneggiare. La richiesta di beni e servizi varia da porto a porto, da mondo a mondo, da sistema a sistema.
+
+Lasciate che un PG truffi un mercate o che eserciti il proprio mestiere in totale onestà. Lasciate che un PG uccida con una coltellata un mercenario pesantemente armato, approfittando di una buona opportunità che il giocatore sceglie di sfruttare a proprio rischio e pericolo.
+
+**Tenete ben a mente il debito dell'equipaggio**. A secondo di chi sia il creditore, il debito può essere una morsa pressante o una miccia che si consuma lentamente.
+
+## Player Advice
 Regardless of direction, the galaxy is
 yours. You dictate what happens, what
 interests you, and where you go. Follow
@@ -415,19 +394,14 @@ leads, but make your own, too. If you
 want it, go find it. Fight for it.
 Whatever it is. Work as a crew and a
 family. Your debt is always shared.
-This sort of game is not about making
-numbers go up, or unlocking combo
-abilities, or perfecting a character
-build. You're a wandering citizen of the
-nearby world/system/sector out to make a
-name for yourself following a rigid
-career. The stakes are yours to raise.
-The nearby shining stars are yours to
-ply to your desires and ambitions.
-Ask questions. Gain information. Apply
-pressure. Above all, pursue goals and
-take control of your own trajectory.
-Example of Play
+
+Indipendentemente dalla rotta, la galassia è vostra. Decidete voi cosa succede, cosa vi interessa e dove andate. Seguite le indicazioni, ma prendete anche le vostre decisioni. Se volete qualcosa, andate a cercarlo. Combattete per essa. Qualsiasi cosa sia. Lavorate come equipaggio e come famiglia. Il vostro debito è sempre condiviso.
+
+Questo tipo di gioco non si basa sui numeri o sullo sblocco di combo o sul perfezionare la costruzione di un personaggio. Sei dei cittadini erranti di un mondo/sistema/settore vicino che si avventurano là fuori per costruirsi una reputazione seguendo una rigorosa carriera. Sta a voi alzare la posta. Le brillanti stelle nelle vicinanze sono là per soddisfare i vostri desideri e le vostre ambizioni.
+
+Fate domande. Ottenete informazioni. Fate pressioni. Soprattutto, perseguite obiettivi e tracciate la vostra rotta. 
+
+## Example of Play
 The crew's ship, Argent Rascal, lands
 for repair after sustaining heavy damage
 from a run-in with jump lane privateers.
@@ -553,7 +527,8 @@ windows. There is an unknown binary star
 hanging nearby and what looks like a
 disabled ship in visual range. Also...
 you're out of fuel. What do you do?
-Starting the Game
+
+## Starting the Game
 The simplest way to begin play is to
 generate a small sector's worth of
 worlds, plant a few key NPCs and goodstrade-
