@@ -1,18 +1,16 @@
 # Any Planet is Earth
-di Jim Parkin
-
-rilasciato sotto licenza CC-BY-SA 4.0 
+## Toolkit per avventure fantascientifiche
 
 *Any Planet Is Earth* è un insieme di linee guida sandbox per la creazione di un'avventura in un futuro prossimo/lontano.
 
-I numeri sono in sostanza poco importanti in in termini di attributi del personaggio e di incontri. Le regole fanno da cornice a un crogiolo di improvvisazione per il dramma e avventure insolite. I giocatori e i loro personaggi (PG) si associano per definire obiettivi basati sull'ambientazione e sugli spunti forniti dall'arbitro, ma ancora di più dalla propria ambizione all'interno del mondo di gioco. Il gioco è diegetico, vale a dire che tutto è costruito dalle circostanze realistiche in cui i giocatori in cui i giocatori svolgono il loro lavoro, missioni e i periodi di inattività.
+I numeri sono in sostanza poco importanti in termini di attributi del personaggio e di incontri. Le regole fanno da cornice a un crogiolo di improvvisazione per dramma e avventure insolite. I giocatori e i loro personaggi (PG) si uniscono per definire obiettivi basati sull'ambientazione e sugli spunti forniti dall'arbitro, ma ancora di più dalla propria ambizione all'interno del mondo di gioco. Il gioco è diegetico, vale a dire che tutto è costruito dalle circostanze realistiche in cui i giocatori svolgono il loro lavoro, le loro missioni e i periodi di inattività.
 
 Attraverso una combinazione di regole semplici e creatività dei giocatori, i PG cercheranno lavoro, taglie, commerci e dicerie, accettando la morte e cercando di lasciare un segno nel panorama stellare, che emerge spontaneo dai dettagli, dai dilemmi e dalle decisioni.
 
 ## Tirare i dadi
-Delle buone descrizioni permettono di evitare il tiro dei dadi. Se il pericolo o una grave incertezza non si applicano, le cose semplicemente accadono come dichiarate dai giocatori o dall'arbitro. **Quando si tenta qualcosa di rischioso, tirare 2d6 per ottenere 7+ se si applica un qualsiasi vantaggio, altrimenti 9+.** I possibili vantaggi includono oggetti, abilità e preparazione. I giocatori spiegano cosa fanno e come. Tutti i tiri dei giocatori sono 2d6.
+Delle buone descrizioni permettono di evitare il tiro dei dadi. Se non ci sono pericoli o gravi incertezze, le cose semplicemente accadono come dichiarate dai giocatori o dall'arbitro. **Quando si tenta qualcosa di rischioso, tirare 2d6 per ottenere 7+ se si applica un qualsiasi vantaggio, altrimenti 9+.** I possibili vantaggi includono oggetti, abilità e preparazione. I giocatori spiegano cosa fanno e come. Tutti i tiri dei giocatori sono 2d6.
 
-Il fallimento non è binario per risultati prossimi alla soglia. I PG potrebbero non avere successo come atteso, ma qualche beneficio potrebbe comunque seguire. Considerate i fallimenti con compromesso, successi con un costo e usate bonus o penalità quando il risultato è lontano dall'obiettivo di 7+/9+.
+Se il risultato è prossimo alla soglia, il fallimento non è binario. I PG potrebbero non avere successo come atteso, ma qualche beneficio potrebbe comunque seguire. Considerate i fallimenti con compromesso, successi con un costo e usate bonus o penalità quando il risultato è lontano dall'obiettivo di 7+/9+.
 
 Gli arbitri dovrebbero fornire abbondanti informazioni e dialogare con i giocatori curiosi per chiarire intenzioni, contesto e ripercussioni.
 
@@ -22,9 +20,9 @@ I PG hanno 4 colpi. Le persone normali a terra sono fragili e vulnerabili. Le pe
 ## Scontri
 Il danno è inflitto in colpi diretti automaticamente **senza l'uso di dadi** ed è aggiudicato dalla diegesi e dalla valutazione dell'arbitro. Linee guida di massima sono:
 
-- **1 colpo** per armi semplice e improvvisate, come bastoni o pugni
-- **2 colpi** per ami pesanti o lame, come spade o mazze
-- **3 colpi** per pistole e fucili standard, senza modifiche
+- **1 colpo** per armi semplice e improvvisate, come bastoni o pugni.
+- **2 colpi** per ami pesanti o lame, come spade o mazze.
+- **3 colpi** per pistole e fucili standard, senza modifiche.
 - **4 colpi** per fucili a pompa, armi laser, granate, fucili d'assalto, ecc.
 
 I PG e i PNG possono aggiungere +1 colpo per l'uso di armi con la capacità (auto), quindi tirano immediatamente 1d6 (1 scarico, 2-3 un solo colpo rimasto, 4-6 tutto a posto). Le corazze assorbono 1 colpo e le corazze (pesanti) 2. Le corazze (leggere) non assorbono *solitamente* alcun colpo.
@@ -33,42 +31,36 @@ I PG e i PNG possono aggiungere +1 colpo per l'uso di armi con la capacità (aut
 Entrate in una stanza. C'è un bicchiere su un tavolo. Prendete il bicchiere. Adesso avete il bicchiere. *Questa è diegesi*. I giocatori e l'arbitro devono essere ragionevoli e ingaggiare il realismo del mondo di gioco. Ogni luogo è pieno di *cose*. Le situazioni dovrebbero essere affrontate e risolte con pensiero laterale basato sull'effettivo contesto prima di avvalersi dei dadi. Se siete esposti e in forte svantaggio, un pugnale alla vostra gola vi ucciderà, a prescindere dal vostro costoso equipaggiamento e la vostra impressionante preparazione.
 
 ## Nemici e combattimento
-Nemici tipici che desiderano danneggiare la squadra hanno 4 colpi e corazze. Se sono presenti nemici particolarmente pericolosi, date loro 5 colpi e/o corazze (pesanti) e una serie di armi e tattiche una serie di armi e tattiche più esotiche.
+Nemici tipici che desiderano danneggiare l'equipaggio hanno 4 colpi e corazze. Se sono presenti nemici particolarmente pericolosi, date loro 5 colpi e/o corazze (pesanti) e una serie di armi e tattiche più esotiche.
 
 I turni di combattimento prevedono movimenti e azioni a scelta del giocatore. Tutte le azioni sono simultanee e non c'è iniziativa. Entrambe le fazioni possono sconfiggere con successo l'avversario nello stesso stesso momento.
 
 ## Reazioni e morale
 Quando i PG incontrano PNG con un atteggiamento ambiguo, si tirano 2d6 per determinare la loro reazione:
 
-| 1-     | 3-5        | 6-8     | 9-11    | 12+   |
+| 1-2    | 3-5        | 6-8     | 9-11    | 12+   |
 | ------ | ---------- | ------- | ------- | ----- |
 | Ostile | Diffidente | Curioso | Gentile | Utile |
 
 I PNG agiscono secondo il loro interesse e i nemici preferiscono la fuga alla morte. Se una situazione mette in pericolo un PNG amichevole o un nemico soffre perdite, tirate 7+, altrimenti fugge/si arrende.
 
 ## Abilità
-I PG sono capaci di gestire tutte le più comuni armi, computer e veicoli senza alcuna abilità specifica. Le abilità rappresentano la capacità avanzanta in una determinata categoria di venire in aiuto nel contesto e nei tiri.
+I PG sono capaci di gestire tutte le più comuni armi, computer e veicoli senza alcuna abilità specifica. Le abilità rappresentano la capacità avanzata in una determinata categoria di venire in aiuto nel contesto e nei tiri.
 
 ### Abilità
 
-- Amministrazione
-- Armamenti
-- Astrogazione
-- Astronavi
-- Baldoria
-- Biologia
-- Computer
-- Fisica
-- Ingegneria
-- Leadership
-- Legale
-- Medicina
-- Mischia
-- Pistole
-- Ricognizione
-- Tecnico
-- Tute Spaziali
-- Veicoli
+|                 |               |
+| --------------- | ------------- |
+| Amministrazione | Leadership    |
+| Armamenti       | Legale        |
+| Astrogazione    | Medicina      |
+| Astronavi       | Mischia       |
+| Baldoria        | Pistole       |
+| Biologia        | Ricognizione  |
+| Computer        | Tecnico       |
+| Fisica          | Tute Spaziali |
+| Ingegneria      | Veicoli       |
+
 
 ## Statistiche
 Tirate 2d6 in ordine per determinare i valori
@@ -86,24 +78,19 @@ I PG devono annotare come portano con sé l'equipaggiamento. Le cinture possono 
 Le qualità possono essere aggiunte a qualsiasi equipaggiamento, arma, veicolo, astronave o altro oggetto nel gioco. Indicate in parentesi alla destra di ciascuna designazione, le qualità forniscono afflato narrativo all'oggetto che modificano. Alcune qualità possono influenzare chiaramente la violenza, come (auto), (incasinato), (raggio) , (scoppio). etc. Considerate come quelle stesse qualità possono alterare usi non violenti. Ciascuna qualità può applicarsi a qualunque oggetto fintanto che ciò abbia senso.
 
 ### Qualità
-- Antico
-- Auto
-- Chiuso
-- Esotico
-- Illegale
-- Incasinato
-- Ingombrante
-- Instabile
-- Leggero
-- Modificato
-- Pesante
-- Preciso
-- Raggio
-- Scadente
-- Scoppio
-- Sicuro
-- Stealth
-- Vivo
+
+|             |            |
+| ----------- | ---------- |
+| Antico      | Modificato |
+| Auto        | Pesante    |
+| Chiuso      | Preciso    |
+| Esotico     | Raggio     |
+| Illegale    | Scadente   |
+| Incasinato  | Scoppio    |
+| Ingombrante | Sicuro     |
+| Instabile   | Stealth    |
+| Leggero     | Vivo       |
+
 
 ## Servizio e Periodi
 I PG iniziano a 18 anni e tirano 1d6 per determinare il servizio iniziale, che sia militare (1-2), di spedizione (3-4) o mercantile (5-6). I periodi di servizio sono di quattro anni e garantisce abilità, eventi, incidenti, e vantaggi che vi danno forma prima di giocare. Le abilità ridondanti sono tirare di nuovo.
@@ -116,135 +103,151 @@ Molti eventi, incidenti e vantaggi sono deliberatamente aperti all'interpretazio
 
 ### Militare
 
-2 Evento -2
-3 Evento -1
-4 Baldoria + Mischia
-5 Veicoli/Astronavi
-6 Pistole/Mischia
-7 FOR +1
-8 Incidente
-9 Armamenti
-10 DES +1
-11 Leadership/Tute Spaziali
-12 Evento +2
+|     |                          |
+| --- | ------------------------ |
+| 2   | Evento -2                |
+| 3   | Evento -1                |
+| 4   | Baldoria + Mischia       |
+| 5   | Veicoli/Astronavi        |
+| 6   | Pistole/Mischia          |
+| 7   | FOR +1                   |
+| 8   | Incidente                |
+| 9   | Armamenti                |
+| 10  | DES +1                   |
+| 11  | Leadership/Tute Spaziali |
+| 12  | Evento +2                |
 
 ### Spedizione
 
-2 Evento -2
-3 Fisica + Astrogazione
-4 Tecnico/Biologia
-5 Abilità Casuale
-6 Ricognizione/Computer
-7 Tuta Spaziale/Veicoli
-8 Medicina/Ingegneria
-9 DES +1/Amministrazione
-10 Boon
-11 SOC +1
-12 Evento +2
+|     |                        |
+| --- | ---------------------- |
+| 2   | Evento -2              |
+| 3   | Fisica + Astrogazione  |
+| 4   | Tecnico/Biologia       |
+| 5   | Abilità Casuale        |
+| 6   | Ricognizione/Computer  |
+| 7   | Tuta Spaziale/Veicoli  |
+| 8   | Medicina/Ingegneria    |
+| 9   | DES +1/Amministrazione |
+| 10  | Vantaggio              |
+| 11  | SOC +1                 |
+| 12  | Evento +2              |
 
 ### Mercantile
 
-2 Evento -1
-3 Baldoria + Pistole
-4 Vantaggio
-5 Abilità Casuale
-6 Amministrazione/Legale
-7 Evento
-8 Leadership
-9 Incidente
-10 Evento +1
-11 SOC +1
-12 Vantaggio +2/Vantaggio -2
+|     |                           |
+| --- | ------------------------- |
+| 2   | Evento -1                 |
+| 3   | Baldoria + Pistole        |
+| 4   | Vantaggio                 |
+| 5   | Abilità Casuale           |
+| 6   | Amministrazione/Legale    |
+| 7   | Evento                    |
+| 8   | Leadership                |
+| 9   | Incidente                 |
+| 10  | Evento +1                 |
+| 11  | SOC +1                    |
+| 12  | Vantaggio +2/Vantaggio -2 |
 
 ### Evento
 
-0 Incidente -2
-1 Incidente
-2 Incidente +2
-3 Congedo forzato
-4 PNG Indeciso
-5 Diceria Regionale
-6 Statistica Casuale +1
-7 Incidente + Vantaggio
-8 Abilità Casuale
-9 Vantaggio -1
-10 Vantaggio
-11 Tiro Periodo +1
-12 PNG Alleato
-13 PNG Patrono
-14 Vantaggio +1 (2x)
+|     |                       |
+| --- | --------------------- |
+| 0   | Incidente -2          |
+| 1   | Incidente             |
+| 2   | Incidente +2          |
+| 3   | Congedo forzato       |
+| 4   | PNG Indeciso          |
+| 5   | Diceria Regionale     |
+| 6   | Statistica Casuale +1 |
+| 7   | Incidente + Vantaggio |
+| 8   | Abilità Casuale       |
+| 9   | Vantaggio -1          |
+| 10  | Vantaggio             |
+| 11  | Tiro Periodo +1       |
+| 12  | PNG Alleato           |
+| 13  | PNG Patrono           |
+| 14  | Vantaggio +1 (2x)     |
 
 ### Incidente
 
-0 Morte
-1 Morte con eredità al PG nuovo
-2 FOR -1/DES -1 (2x)
-3 Estorsione
-4 **Ostacolo**
-5 Ricercato
-6 PNG Rivale
-7 Congedo Forzato
-8 SOC - 1
-9 **Ostacolo**
-10 Ricatto
-11 Sostegno di **Cospirazione**
-12 Infortunio
-13 Vantaggio -1
-14 Vantaggio -2
+|     |                               |
+| --- | ----------------------------- |
+| 0   | Morte                         |
+| 1   | Morte con eredità al PG nuovo |
+| 2   | FOR -1/DES -1 (2x)            |
+| 3   | Estorsione                    |
+| 4   | **Ostacolo**                  |
+| 5   | Ricercato                     |
+| 6   | PNG Rivale                    |
+| 7   | Congedo Forzato               |
+| 8   | SOC - 1                       |
+| 9   | **Ostacolo**                  |
+| 10  | Ricatto                       |
+| 11  | Sostegno di **Cospirazione**  |
+| 12  | Infortunio                    |
+| 13  | Vantaggio -1                  |
+| 14  | Vantaggio -2                  |
 
 ### Vantaggio
 
-0 Tiro Servizio +2
-1 Tiro Servizio +1
-2 **Bonus**
-3 Connessione commerciale
-4 Abilità Casuale (2x)
-5 Statistica qualsiasi +1
-6 Abilità Casuale
-7 Indizio profittevole
-8 PNG Alleato
-9 **Bonus**
-10 1 Risorsa
-11 Grande favore
-12 Mappa stellare segreta
-13 SOC +2
-14 Nome Nave
+|     |                         |
+| --- | ----------------------- |
+| 0   | Tiro Servizio +2        |
+| 1   | Tiro Servizio +1        |
+| 2   | **Bonus**               |
+| 3   | Connessione commerciale |
+| 4   | Abilità Casuale (2x)    |
+| 5   | Statistica qualsiasi +1 |
+| 6   | Abilità Casuale         |
+| 7   | Indizio profittevole    |
+| 8   | PNG Alleato             |
+| 9   | **Bonus**               |
+| 10  | 1 Risorsa               |
+| 11  | Grande favore           |
+| 12  | Mappa stellare segreta  |
+| 13  | SOC +2                  |
+| 14  | Nome Nave               |
 
-Quando avviene il congedo da tutti i servizi, **definisci un obiettivo personale per il tuo PG** (che sia ricchezza, tecnologia,prestigio, etc.), quindi tirate 1d6 sulle tabelle dei benefici che seguono per ogni periodo completato:
+Quando avviene il congedo da tutti i servizi, **definite un obiettivo personale per il vostro PG** (che sia ricchezza, tecnologia,prestigio, etc.), quindi tirate 1d6 sulle tabelle dei benefici che seguono per ogni periodo completato:
 
 ### Benefici Militari
 
-1 Pistola (qualità casuale)
-2 Fucile/SMG (qualità casuale)
-3 2 petty cash
-4 Armor
-5 Armor (heavy)
-6 Knife (2x)
+|     |                              |
+| --- | ---------------------------- |
+| 1   | Pistola (qualità casuale)    |
+| 2   | Fucile/SMG (qualità casuale) |
+| 3   | 2 contanti                   |
+| 4   | Corazza                      |
+| 5   | Corazza (pesante)            |
+| 6   | Coltello (2x)                |
 
 ### Benefici Spedizione
 
-1 Drone (random quality)
-2 Advanced medkit
-3 Personal comm array
-4 Pistola
-5 Regional map
-6 Vacc suit
+|     |                         |
+| --- | ----------------------- |
+| 1   | Drone (qualità casuale) |
+| 2   | Kit Medico Avanzato     |
+| 3   | Comunicatore            |
+| 4   | Pistola                 |
+| 5   | Mappa Regionale         |
+| 6   | Tuta Spaziale           |
 
 ### Benefici Mercantili
 
-1 Trade contact
-2 Government papers
-3 Knife (subtle)
-4 2 petty cash
-5 1 asset
-6 Pet (exotic)
+|     |                             |
+| --- | --------------------------- |
+| 1   | Contatto Commerciale        |
+| 2   | Licenze                     |
+| 3   | Coltello (sottile)          |
+| 4   | 2 contatti                  |
+| 5   | 1 risorse                   |
+| 6   | Animale domestico (esotico) |
 
 ## Distanza e gittata
 I PG si trovano su pianeti, lune, astronavi e stazioni spaziali. Attraversano terre desolate, si addentrano in grotte, camminano legati allo scafo di una nave da carico nello spazio e si perdono nella sconfinata periferia urbana.
 
-Per semplificare la gestione, il raggio d'azione è relativo
-e viene indicato in tre termini: **accanto**, **prossimo** 
-e **distante**.
+Per semplificare la gestione, il raggio d'azione è relativo e viene indicato in tre termini: **accanto**, **prossimo** e **distante**.
 
 |           | Accanto  | Prossimo | Distante |
 | --------- | -------- | -------- | -------- |
@@ -289,7 +292,6 @@ L'assegnazione di qualsiasi qualità alle navi ne modifica le caratteristiche. A
 
 Di seguito sono riportati schemi tipici e astronavi di esempio.
 
-
 **Corriere**, 6 slot, 2 colpi, 1 corazza  
 *Esploratore*  
 2-piloni alari, 1-stiva, 3-gittata  
@@ -311,26 +313,26 @@ Di seguito sono riportati schemi tipici e astronavi di esempio.
 Gli scontri tra navi sono a tutti gli effetti trattati come quelli tra persone, l'unica differenza riguarda tipicamente le armi a distanza che sparano a una gittata prossima richiedono un turno intero per ingaggiare il loro obiettivo e così via. Le qualità possono aver effetto su velocità/gittata. Come sempre, il contesto la fa da padrone.
 
 ## Veicoli
-I veicoli sono progettati e usati allo stesso modo delle astronavi. Usa le categorie e le statistiche per aggiustare veicoli comuni, grandi o speciali. L'unica differenza di meccanica tra veicoli e astronavi è la grandezza di scala.
+I veicoli sono progettati e usati allo stesso modo delle astronavi. Usate le categorie e le statistiche per aggiustare veicoli comuni, grandi o speciali. L'unica differenza di meccanica tra veicoli e astronavi è la grandezza di scala.
 
 ## Viaggio Interstellare
-È possibile viaggiare tra sistemi civilizzati lungo le corsia di salto. Queste corsie sono relativamente sicure e sono mantenute per itinerari fissi. Le navi possono eseguire salti in base alla loro gittata, rifornendosi quando necessario all'arrivo nei porti (1:1 carburante consumato per gittata attraversata). Distanza maggiore richiedono più fermata e/o rifornimenti speciali per coprire la distanza necessaria.
+È possibile viaggiare tra sistemi civilizzati lungo le corsia di salto. Queste corsie sono relativamente sicure e sono mantenute come itinerari fissi. Le navi possono eseguire salti in base alla loro gittata, rifornendosi quando necessario all'arrivo nei porti (1:1 carburante consumato per gittata attraversata). Distanza maggiore richiedono più fermata e/o rifornimenti speciali per coprire la distanza necessaria.
 
-Quando si genera un settore e si stabilisce la distanza di un corsia di salto tra due diversi sistemi, tira 3d6-2, scartando il risultato più alto. Si ottiene così una gittata da 0 a 10, tendendo verso i valori più bassi  dello spettro di gittata.
+Quando si genera un settore e si stabilisce la distanza di un corsia di salto tra due diversi sistemi, tirate 3d6-2, scartando il risultato più alto. Si ottiene così una gittata da 0 a 10, tendendosi verso i valori più bassi dello spettro di gittata.
 
 ### Salto Errato
 
-|     |                                    |
-| --- | ---------------------------------- |
-| 1   | Arrive a week late                 |
-| 2   | Random jump lane traveled          |
-| 3   | Life support malfunction           |
-| 4   | Fatigue (loss of 1 inventory slot) |
-| 5   | Cargo compromised                  |
-| 6   | Arrive at uncharted system         |
+|     |                                                |
+| --- | ---------------------------------------------- |
+| 1   | Arrivo con una settimana di ritardo            |
+| 2   | Salto casuale della corsia percorsa            |
+| 3   | Malfunzionamento del supporto vitale           |
+| 4   | Affaticamento (perdita di 1 slot d'inventario) |
+| 5   | Carico compromesso                             |
+| 6   | Arrivo in un sistema inesplorato               |
 
 ## Avanzamento e Obiettivi
-Quando si ottiene un risultato importante, come una grossa vendita, il completamento di una missione o il raggiungimento di un obiettivo personale, l'arbitro può usare i tempi morti che ne seguono per permettere ai PG di tirare sulla tabella dei Vantaggi, con l'opzione di aggiungere modificatori positivi al tiro, guadagnano quindi benefici prima di passare alla parte successiva del loro viaggio insieme come equipaggio.
+Quando si ottiene un risultato importante, come una grossa vendita, il completamento di una missione o il raggiungimento di un obiettivo personale, l'arbitro può usare i periodi di inattività che ne seguono per permettere ai PG di tirare sulla tabella dei Vantaggi, con l'opzione di aggiungere modificatori positivi al tiro, guadagnano quindi benefici prima di passare alla parte successiva del loro viaggio insieme come equipaggio.
 
 Le statistiche e i colpi dei PG non cambiano se non durante le azioni. Alcuni elementi diegetici possono cambiare le statistiche di un PG (come installare impianti cibernetici, sostituire un arto, curare un trauma, diplomarsi in un eccellente programma di specializzazione, etc.).
 
@@ -367,7 +369,7 @@ Tirate fino a 3 volte al giorno quando l'equipaggio è lontano dalla nave o dal 
 | 6   | Caratteristica nascosta (tipicamente positiva) |
 
 ### Esplorazione urbana (astromoli, approdi)
-Lanciate 1 volta al giorno, o quando l'equipaggio rompe lo status quo nell'ambiente ambiente.
+Tirate 1 volta al giorno, o quando l'equipaggio rompe lo status quo nell'ambiente ambiente.
 
 |     |                                |
 | --- | ------------------------------ |
@@ -380,194 +382,88 @@ Lanciate 1 volta al giorno, o quando l'equipaggio rompe lo status quo nell'ambie
 
 
 ## Consigli per l'arbitro
-Any Planet Is Earth non ha limiti ben definiti. Il fulcro dell'avventura sono la verosimiglianza, la consistenza e la catena initerrotta di causalità. Mentre l'equipaggio viaggia, scoprirà ce l'intera galassia è aperta e senza confini. Le minuzie irrilevanti possono essere messe da parte, dato che ciò che conta sono le decisioni, le complicazioni e le conseguenze degli spostamenti dei giocatori. Considerate che il "denaro" è fluido in un contesto di spazio interstellare, difficile da definire e impossibile da padroneggiare. La richiesta di beni e servizi varia da porto a porto, da mondo a mondo, da sistema a sistema.
+Any Planet Is Earth non ha limiti ben definiti. Il fulcro dell'avventura sono la verosimiglianza, la consistenza e la catena ininterrotta di causalità. Mentre l'equipaggio viaggia, scoprirà ce l'intera galassia è aperta e senza confini. Le minuzie irrilevanti possono essere messe da parte, dato che ciò che conta sono le decisioni, le complicazioni e le conseguenze degli spostamenti dei giocatori. Considerate che il "denaro" è fluido in un contesto di spazio interstellare, difficile da definire e impossibile da padroneggiare. La richiesta di beni e servizi varia da porto a porto, da mondo a mondo, da sistema a sistema.
 
-Lasciate che un PG truffi un mercate o che eserciti il proprio mestiere in totale onestà. Lasciate che un PG uccida con una coltellata un mercenario pesantemente armato, approfittando di una buona opportunità che il giocatore sceglie di sfruttare a proprio rischio e pericolo.
+Lasciate che un PG truffi un mercante o che eserciti il proprio mestiere in totale onestà. Lasciate che un PG uccida con una coltellata un mercenario pesantemente armato, approfittando di una buona opportunità che il giocatore sceglie di sfruttare a proprio rischio e pericolo.
 
 **Tenete ben a mente il debito dell'equipaggio**. A secondo di chi sia il creditore, il debito può essere una morsa pressante o una miccia che si consuma lentamente.
 
-## Player Advice
-Regardless of direction, the galaxy is
-yours. You dictate what happens, what
-interests you, and where you go. Follow
-leads, but make your own, too. If you
-want it, go find it. Fight for it.
-Whatever it is. Work as a crew and a
-family. Your debt is always shared.
-
+## Consigli ai giocatori
 Indipendentemente dalla rotta, la galassia è vostra. Decidete voi cosa succede, cosa vi interessa e dove andate. Seguite le indicazioni, ma prendete anche le vostre decisioni. Se volete qualcosa, andate a cercarlo. Combattete per essa. Qualsiasi cosa sia. Lavorate come equipaggio e come famiglia. Il vostro debito è sempre condiviso.
 
 Questo tipo di gioco non si basa sui numeri o sullo sblocco di combo o sul perfezionare la costruzione di un personaggio. Sei dei cittadini erranti di un mondo/sistema/settore vicino che si avventurano là fuori per costruirsi una reputazione seguendo una rigorosa carriera. Sta a voi alzare la posta. Le brillanti stelle nelle vicinanze sono là per soddisfare i vostri desideri e le vostre ambizioni.
 
 Fate domande. Ottenete informazioni. Fate pressioni. Soprattutto, perseguite obiettivi e tracciate la vostra rotta. 
 
-## Example of Play
-The crew's ship, Argent Rascal, lands
-for repair after sustaining heavy damage
-from a run-in with jump lane privateers.
-Referee: You've returned to the coastal
-port on Lothe Prime's northern continent
-after limping out of space. Your ship is
-in bad shape, but you manage to find an
-open berth, hopeful for quick service.
-Arnault: “We nearly had it out there.
-That cartel won't leave anyone alone so
-long as they go unchecked.”
-Rel: “Sure, but we made it, didn't we?
-I'll go see if we can get a repair crew
-to assess the damage.”
-Referee: Your docking door opens to
-reveal a cadre of uniformed men, one
-with a clipboard and a pointy hat, the
-others with billy clubs and SMGs on
-their hips. “This is an unauthorized
-landing. Who is in charge here?”
-Paolo: “That's me. We were unaware we
-needed clearance to land here.” He gives
-a side-eye to Arnault, who is already
-looking around for bystanders.
-Referee: “It isn't clearance you need to
-land, per se, but our scans show that
-you last took off from this port after
-evading exit taxes. You're on barred
-lockdown until you sign off with
-Kitimashi Logistics.”
-Rel: “Crap, I hate those Kitimashi
-suits. Nothing they touch escapes their
-grubby hands,” she mutters under her
-breath. “Hey, Paolo, the engines aren't
-in great shape, but we could still boost
-out of here.”
-Referee: “Will you comply?” The man in
-the hat responds sternly. It's obvious
-that his entourage resembles bouncers
-more than bureaucrats.
-Arnault: “Isn't Lothe's far moon outside
-of Kitimashi jurisdiction?”
-Paolo: “That's exactly what I was
-thinking,” he replies in a whisper. “Oh,
-well, sure we'll stop by the office. Let
-me just grab my PAD and we'll meet you
-there in fifteen?” Just out of sight, he
-breaks into a run with Rel and Arnault.
-Rel: “If we're going to boost it better
-be quick!”
-Referee: The Kitimashi enforcers wait
-only a few seconds before stepping
-towards the docking door.
-Rel: “I'll fire up the thrusters and try
-to get out ASAP.”
-Referee: The ship is under serious
-physical duress. You'll have to ensure
-the engine doesn't fail when you lift
-off. Roll for it, since if you can't
-hack it, the goons will be inside your
-ship in no time.
-Rel: “Okay, I'm a skilled engineer, so I
-should be able to hackney this to make
-ends meet. Arnault, come with me and
-bring the spanner kit!” Rolls 8. “Got
-it!”
-Referee: The Argent Rascal groans and
-belches from somewhere in the engine
-room, but it lifts off. Paolo hears a
-thud and shout out the passage to the
-docking door as one of the corp
-enforcers falls a dozen feet to the
-docking platform. She was clearly
-already half-way onto the ship. A spray
-of gunfire clankles against the hull as
-the Kitimashi cadre opens fire, but the
-ship is too sturdy to take much heat.
-Arnault: “We've had closer calls. Heh.”
-Referee: The Argent Rascal kicks in full
-speed and begins to lift quickly, and
-it's at this point that Paolo hears the
-tell-tale rapid beeping of an explosive
-in the passage behind him. It's a
-grenade, and it looks like one of the
-Kitimashi suits managed to lob it
-through the docking door before you
-cleared the port.
-Rel: “Fantastic.”
-Referee: With a churning bloom of fire
-and shrapnel, the grenade detonates.
-Paolo, you're thrown from the seat in
-front of the control panel and slam into
-the side console, taking 2 hits. Rel and
-Arnault, you're unhurt, but you can feel
-the ship listing under your feet. The
-astrogation controls appear online
-despite the blast.
-Rel: “Arnault! Help Paolo! Crap!” She
-heads to the navigation controls and
-punches in the first ping on the list of
-jump lanes, well, at least the first she
-sees that isn't where they just came
-from.
-Referee: Arnault is able to make it to
-Paolo and ensure he's okay. Roughed up
-badly and out cold, but okay. Sensors on
-your dash show two gunships taking off
-from a nearby hangar. You've no doubt
-they're Kitimashi boats. If you're going
-to jump, now's your chance.
-Rel: “Right. Welp.” Rolls 3.
-Referee: Rolls 6. You sigh in relief as
-the familiar slipstream lurch thrums
-your feet into the floor. Thankfully
-your magboots are active, or else blood
-would flow freely as you collide with
-the bulkheads. Lothe Prime winks out
-behind you, but Rel is sure the
-astrogation went wrong somehow. The
-Argent Rascal slows and the void of
-space catches up to the exterior
-windows. There is an unknown binary star
-hanging nearby and what looks like a
-disabled ship in visual range. Also...
-you're out of fuel. What do you do?
+## Esempio di gioco
+La nave dell'equipaggio, l'Argent Rascal, atterra per essere riparata dopo aver subito ingenti danni a causa di uno scontro con i corsari della corsia di salto.
 
-## Starting the Game
-The simplest way to begin play is to
-generate a small sector's worth of
-worlds, plant a few key NPCs and goodstrade-
-routes along a number of jump
-lanes. Seed rumors. Establish
-corporations and factions. Inject
-weaknesses into everyone the crew
-encounters while also giving them
-attractive strengths and assets,
-breeding familiarity and inviting chaos.
-The following tables are not exhaustive,
-but should provide all necessary fodder
-for fleshing out a local adventure
-setting filled with the needs, wants,
-and conflicts of realistic communities
-and actors.
-As a basic guideline, roll 3-5 times on
-the region/world name, population, and
-region/world terrain tables, then
-establish jump lanes between them.
-Multiple additional worlds can be added
-to each generated world result to create
-more complex stellar systems, but it is
-not necessary.
-Roll a few corporations, trade goods,
-crises, and rumors/mission hooks to
-flesh out the social and mercantile
-scene, as well as seed some directions
-for the crew to explore. Also roll up a
-few major & minor NPCs as local actors,
-and finally a single major NPC/patron to
-act as the creditor for the crew's
-initial debt.
-The following tables have 36 results and
-are laid out in 6 groups of 6 results
-each. Roll 2d6, using the first die to
-determine a group and the second die to
-determine an entry within the group from
-the top down. Bolded entries point to
-other random tables where you should
-roll again, adding further nuance to the
-result.
+**Arbitro**: Siete tornati allo spazioporto del continente settentrionale di Lothe Prime dopo essere usciti zoppicando dallo spazio. La vostra nave è in cattive condizioni, ma siete riusciti a trovare un ormeggio libero, sperando in un servizio rapido.
+
+**Arnault**: "Ce l'abbiamo quasi fatta. Quel cartello non lascerà in pace nessuno finché non verrà controllato".
+
+**Rel**: "Certo, ma ce l'abbiamo fatta, no? Vado a vedere se possiamo trovare una squadra di riparazione per valutare i danni".
+
+**Arbitro**: La porta di attracco si apre per rivelare un gruppo di uomini in uniforme, uno con una cartellina e un cappello a punta, gli altri con mazze e SMG ai fianchi. "Questo è un atterraggio non autorizzato. Chi è al comando qui?".
+
+**Paolo**: "Sono io. Non sapevamo di aver bisogno di un'autorizzazione per atterrare qui". Fa un'occhiataccia ad Arnault, che si sta già guardando intorno in cerca di passanti.
+
+**Arbitro**: "Non è l'autorizzazione ad atterrare che vi serve, di per sé, ma le nostre scansioni mostrano che l'ultima volta siete decollati da questo porto dopo aver evaso le tasse di uscita. Siete in isolamento fino a quando non firmerete con la Kitimashi Logistics".
+
+**Rel**: "Merda, odio quelle tute Kitimashi. Niente di quello che toccano sfugge alle loro mani sporche", borbotta sottovoce. "Ehi, Paolo, i motori non sono in gran forma, ma possiamo ancora spingere per andarcene da qui".
+
+**Arbitro**: "Ottempererete?" L'uomo col cappello risponde severamente. È ovvio che il suo entourage assomiglia più a buttafuori che a burocrati.
+
+**Arnault**: "La luna lontana di Lothe non è fuori dalla giurisdizione di Kitimashi?".
+
+**Paolo**: "È esattamente quello che stavo pensando", risponde in un sussurro. "Oh, beh, certo che ci fermeremo in ufficio. Mi lasci prendere il mio PAD e ci vediamo lì tra quindici minuti?". Appena fuori dalla vista, si mette a correre con Rel e Arnault.
+
+**Rel**: "Se dobbiamo dare una spinta è meglio che sia veloce!".
+
+**Arbitro**: Gli esecutori Kitimashi aspettano solo pochi secondi prima di dirigersi verso la porta di attracco.
+
+**Rel**: "Accendo i propulsori e cerco di uscire il prima possibile".
+
+**Arbitro**: La nave è in grave difficoltà affanno. Dovrai assicurarti che il motore non si guasti quando decolli. Devi tirare e in caso di fallimento, gli scagnozzi saranno dentro la tua nave in men che non si dica.
+
+**Rel**: "Ok, sono un ingegnere esperto, quindi dovrei essere in grado di fare dell'hacking per sbarcare il lunario. Arnault, vieni con me e porta il kit di chiavi inglesi!". Ho fatto 8. Passato!"
+
+**Arbitro**: L'Argent Rascal geme e rutta da qualche parte nella sala macchine, ma si solleva. Paolo sente un tonfo e un grido nel passaggio verso la porta d'attracco, mentre una delle guardie del corpo cade per una dozzina di metri sulla piattaforma d'attracco. Evidentemente era già a metà strada verso la nave. Una raffica di proiettili si infrange contro lo scafo quando il gruppo di Kitimashi apre il fuoco, ma la nave è abbastanza robusta da sopportarlo.
+
+**Arnault**: "Ci siamo andati vicino. Heh."
+
+**Arbitro**: L'Argent Rascal entra in funzione a tutta velocità e comincia a sollevarsi rapidamente, ed è a questo punto che Paolo sente il rapido bip rivelatore di un esplosivo nel passaggio dietro di lui. È una granata, e sembra che uno degli scagnozzi Kitimashi sia riuscito a lanciarla attraverso la porta d'attracco prima che voi lasciaste il porto.
+
+**Rel**: "Fantastico".
+
+**Arbitro**: Con un'esplosione di fuoco e schegge, la granata esplode. Paolo, vieni sbalzato dal sedile di fronte al pannello di controllo e sbatti contro la console laterale, subendo due colpi. Rel e Arnault, siete illesi, ma sentite che la nave sta cedendo sotto i vostri piedi. Nonostante l'esplosione, i controlli dell'astrogazione appaiono online.
+
+**Rel**: "Arnault! Aiuta Paolo! Merda!" Si dirige verso i controlli di navigazione e digita il primo ping sulla lista delle corsie di salto, almeno il primo che vede che non sia quello da cui sono appena arrivati.
+
+**Arbitro**: Arnault riesce a raggiungere Paolo e ad assicurarsi che stia bene. Malconcio e freddo, ma sta bene. I sensori sul cruscotto mostrano due cannoniere in decollo da un hangar vicino. Non hai dubbi che si tratti di navi Kitimashi. Se hai intenzione di saltare, questa è l'occasione giusta.
+
+**Rel**: "Giusto. Bene." Ho fatto 3.
+
+**Arbitro**: Ho fatto 6. Tirate un sospiro di sollievo quando la familiare sbandata della scia fa sbattere i vostri piedi contro il pavimento. Per fortuna i tuoi stivali magnetici sono attivi, altrimenti scorrerebbe il sangue mentre ti scontri con le paratie. Lothe Prime strizza l'occhio alle vostre spalle, ma Rel è sicuro che qualcosa sia andato storto con l'astrogazione. L'Argent Rascal rallenta e il vuoto dello spazio è visibile dalle finestre esterne. C'è una stella binaria sconosciuta sospesa lì vicino e quella che sembra una nave disabilitata nel raggio visivo. Inoltre... avete finito il carburante. Cosa fare?
+
+## Iniziare la partita
+Il modo più semplice di iniziare a giocare è quello di generare un piccolo settore con qualche mondo, piazzare qualche PNG e alcune rotte commerciali lungo le corsie di salto. Disseminate dicerie. Definite delle corporazioni e delle fazioni. Iniettare debolezze a tutti coloro che l'equipaggio incontra, conferendo anche punti di forza e risorse interessanti, creando familiarità e stimolando il caos.
+
+Le tabelle seguenti non sono esaustive, ma dovrebbero fornire tutto il materiale necessario per dare corpo a un'avventura circoscritta grazie ai bisogni, ai desideri e ai conflitti di una comunità e di attori realistici.
+
+Come linea guida di massima, tirate 3-5 volte sulle tabelle per nome, popolazione e terreno della regione/mondo, quindi stabilire corsie di salto tra di essi. Si possono aggiungere più mondi a ciascun risultato per creare sistemi stellari più complessi, ma non è necessario.
+
+Tirate alcune corporazioni, merci, crisi e voci/agganci di missione per dare corpo alla scena sociale e mercantile, oltre a creare alcune direzioni da esplorare per l'equipaggio. Inoltre, si possono creare alcuni PNG maggiori e minori come attori locali, e infine un singolo PNG/mecenate maggiore che funga da creditore per il debito iniziale dell'equipaggio.
+
+Le seguenti tabelle hanno 36 risultati e sono disposte in 6 gruppi di 6 risultati ciascuno. Tirate 2d6, usando il primo dado per determinare un gruppo e il secondo dado per determinare una voce all'interno del gruppo dall'alto verso il basso. Le voci in grassetto indicano altre tabelle casuali in cui è necessario tirare di nuovo, aggiungendo ulteriori sfumature al risultato.
+
+## Ringraziamenti
+Classic Traveller di Marc Miller, Into the Odd di Chris McDowall ed Escape Velocity della Ambrosia Software sono le ispirazioni principali di questo progetto. La teoria della ur-old-school di Norbert Matausch e la formattazione di Maze Rats di Ben Milton hanno aiutato moltissimo a definire questo documento e le sue meccaniche verso la massima sinteticità. Il feedback generoso e critico di Jeff Woodman, Dreaming Dragonslayer e Wizard Lizard ha trasformato un ammasso di idee incoerenti in un gioco chiaro e fruibile.
+
+**Progetto**: Jim Parkin (CC BY 4.0)
+
+> **Annowme** - d66kobolds.blogspot.com
+> 
+“**Qualsiasi pianeta** è 'Terra' per coloro che ci abitano” ~ **Isaac Asimov, *Paria dei cieli***
+
+*Traduzione per l'Italian Translation Alliance a cura di Roberto Bisceglie*
