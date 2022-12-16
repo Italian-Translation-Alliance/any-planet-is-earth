@@ -457,6 +457,227 @@ Tirate alcune corporazioni, merci, crisi e voci/agganci di missione per dare cor
 
 Le seguenti tabelle hanno 36 risultati e sono disposte in 6 gruppi di 6 risultati ciascuno. Tirate 2d6, usando il primo dado per determinare un gruppo e il secondo dado per determinare una voce all'interno del gruppo dall'alto verso il basso. Le voci in grassetto indicano altre tabelle casuali in cui è necessario tirare di nuovo, aggiungendo ulteriori sfumature al risultato.
 
+### Nomi di Regioni/Mondi
+
+|           |         |            |
+| --------- | ------- | ---------- |
+| Arcturus  | Famulus | Karnak     |
+| Asuril    | Gefjon  | Kismet     |
+| Beltannor | Hodor   | Lothe      |
+| Censur    | Husta   | Luxxottica |
+| Dayes     | Ikeel   | Miranu     |
+| Elnorath  | Jil     | Moroes     |
+| Nesre     | Regin   | Ulphara    |
+| Occulus   | Romit   | Verdrem    |
+| Orsis     | Sess    | Wholthia   |
+| Polaris   | Tichel  | Xesero     |
+| Pressen   | Tidbin  | Yutapau    |
+| Qubbul    | Tuatha  | Zarrulo    |
+
+
+### Terreni di Regioni/Mondi
+
+|                |                |             |
+| -------------- | -------------- | ----------- |
+| Alchemico      | Cristallino    | Ferroso     |
+| Artificiale    | Profondo       | Piatto      |
+| Brullo         | Sviluppato     | Foresta     |
+| Costiero       | Secco          | Fungoso     |
+| Freddo         | Elettrico      | Gassoso     |
+| Colonnare      | Etereo         | Caldo       |
+|                |                |             |
+| Lussureggiante | Sovrabbondante | Temperato   |
+| Serpeggiante   | Psionico       | Tossico     |
+| Nebbioso       | Irradiato      | Squilibrato |
+| Mobile         | Robusto        | Volatile    |
+| Montuoso       | Tempestoso     | Vulcanico   |
+| Orbitale       | Tettonico      | Umido       |
+
+### Popolazione Mondiale, Dimensione
+
+|                |                |                 |
+| -------------- | -------------- | --------------- |
+| <10, 1/2g      | 10+, luna      | 100K+, orbitale |
+| <10, 2g        | 10+, stazione  | 100K+, stazione |
+| <10, asteroide | 100K+, 1/2g    | 100M+, 1g       |
+| <10, orbitale  | 100K+, 1g      | 100M+, 2g       |
+| 10+, 1/2g      | 100K+, 2g      | 10G+, 1g        |
+| 10+, 2g        | 100K+, luna    | 10G+, 2g        |
+|                |                |             |
+| 10K+, 1g       | 1K+, 1/2g      | 1M, 1g          |
+| 10K+, orbitale | 1K+, 1g        | 1M+, 1/2g       |
+| 10M, 1/2g      | 1K+, asteroide | 1M+, 2g         |
+| 10M+, 1g       | 1K+, luna      | 1M+, luna       |
+| 1G+, 1g        | 1K+, stazione  | 50G+, 2g        |
+| 1G+, 2g        | 1K+, stazione  | 5G+, 1g         |
+
+
+### PNG Maggiori/Patroni
+
+|                         |                                  |                          |
+| ----------------------- | -------------------------------- | ------------------------ |
+| Aristocratico           | Trafficante                      | Recrutatore              |
+| Mercante d'armi         | Celebrità                        | Leader di un culto       |
+| Direttore d'arte        | Supervisore coloniale            | Diplomatico              |
+| Direttore di banca      | Cospiratore                      | Guardiano del porto      |
+| Violatore di blocchi    | Impiegato aziendale              | Allevatore di esotici    |
+| Procacciatore di taglie | Supervisore di missioni speciali | Viaggiatore di frontiera |
+|                         |                                  |                          |
+| Finanziere              | Capo della milizia               | Architetto di navi       |
+| Capo ricercatore        | Ufficiale di Marina              | Magnate del commercio    |
+| Governatore locale      | Capitano di pirati               | Alto clero               |
+| Magistrato              | Investigatore privato            | Artista d'armi           |
+| Fabbricante             | Capo dei ribelli                 | Agente segreto           |
+| Capitano mercenario     | Pilota di nave da esplorazione   | Xenobiologo              |
+
+
+### PNG Minori/Equipaggio
+|                |                 |             |
+| -------------- | --------------- | ----------- |
+| Amministratore | Burocrate       | Dissidente  |
+| Anarchico      | Chimico         | Agricoltore |
+| Archivista     | Impiegato       | Truffatore  |
+| Artista        | Poliziotto      | Hacker      |
+| Botanico       | Cultista        | Dirottatore |
+| Buttafuori     | Curato          | Operaio     |
+|                |                 |             |
+| Marinaio       | Studioso        | Chirurgo    |
+| Mercenario     | Scienziato      | Teppista    |
+| Minatore       | Negoziante      | Stagnino    |
+| Patologo       | Contrabbandiere | Tracciatore |
+| Psicologo      | Speculatore     | Riccio      |
+| Canaglia       | Stivale         | Veterinario |
+
+
+### Corporationi
+
+|                      |                      |                   |
+| -------------------- | -------------------- | ----------------- |
+| Agricoltura          | Chimica              | Sistemi di difesa |
+| Analitica            | Clonazione           | Design            |
+| Architettura         | Commercio            | Elettronica       |
+| Artificial Int       | Costruzione          | Energia           |
+| Banche               | Cibernetica          | Fabbricazione     |
+| Biotech              | Spazio profondo      | Moda              |
+|                      |                      |                   |
+| Cibo e bevande       | Salute mentale       | Robotica          |
+| Modificazione Genica | Nanotecnologia       | Sicurezza         |
+| Metalli pesanti      | Neuroscienza         | Astronavi         |
+| Consulenza legale    | Costruzioni orbitali | Sorveglianza      |
+| Produzione           | Farmaceutici         | Veicoli           |
+| Mass media           | Propulsione          | Armi              |
+
+### Factions
+
+|             |                              |               |
+| ----------- | ---------------------------- | ------------- |
+| Agrariani   | Capitalisti                  | Futuristi     |
+| Anarchici   | Conflagratori, Modellatori G |               |
+| Assassini   | Cibernetici                  | Geofili       |
+| Bolscevichi | Daemonici                    | Cacciatori    |
+| Borgomastri | Familiaristi                 | Illuminati    |
+| Cannibali   | Furry                        | Intelligentia |
+|             |                              |               |
+| Libertari   | Oggettivisti                 | Sotterranei   |
+| Marines     | Opportunisti                 | Sindacalisti  |
+| Mercenari   | Corsari                      | Camionisti    |
+| Milizia     | Scolastici                   | Transumanisti |
+| Monarchici  | Maestri segreti              | Ambientalisti |
+| Monastici   | Contrabbandieri              | Xenofobi      |
+
+
+### Trade Goods
+
+|                  |                        |                            |
+| ---------------- | ---------------------- | -------------------------- |
+| Biotecnologia    | Pesce                  | Terriccio                  |
+| Alcolici         | Funghi                 | Legname                    |
+| Cereali          | Mobili                 | Carne                      |
+| Abbigliamento    | Idrogeno               | Microbi                    |
+| Carbone          | Ferro                  | Ossigeno                   |
+| Armi da fuoco    | Bestiame               | Palladio                   |
+|                  |                        |                            |
+| Carta            | Ricreazione            | Titanio                    |
+| Plascreta        | Sale                   | Zucchine                   |
+| Plastica         | Solventi               | Combustibile non raffinato |
+| Metalli preziosi | Alimenti speciali      | Veicoli                    |
+| Prefabbricati    | Parti di navi stellari | Acqua                      |
+| Processori       | Zucchero               | Ruote                      |
+
+### Dicerie/Agganci
+
+|                                    |                          |                         |
+| ---------------------------------- | ------------------------ | ----------------------- |
+| Avaria IA                          | Relitto                  | Gray hacking            |
+| Cultura antica                     | Richiesta di soccorso    | Animali ostili          |
+| Fabbrica di androidi               | Sfera di Dyson           | Robot illegali          |
+| Acquisizione da parte del cartello | Guerra tra fazioni       | Disastro in laboratorio |
+| Furto aziendale                    | Carenza di cibo          | Sonda perduta           |
+| Materia oscura                     | Pozzo gravitazionale     | Consegna di medicinali  |
+|                                    |                          |                         |
+| Persona scomparsa                  | Risorse vantaggiose      | Convoglio commerciale   |
+| Nuova colonia                      | Rivoluzionari            | Segnale sconosciuto     |
+| Griglia orbitale                   | Anello di contrabbando   | Rapimento di VIP        |
+| Incursioni di pirati               | Venti solari             | Sciopero dei lavoratori |
+| Prototipo di bomba                 | Ascensore spaziale       | Blocco mondiale         |
+| Scoppio di una pulsar              | Schianto di un'astronave | Reliquario Xeno         |
+
+
+### Obiettivi PNG
+
+|                                 |                           |                        |
+| ------------------------------- | ------------------------- | ---------------------- |
+| Aiutare una cospirazione        | Scoperta                  | Esplorazione           |
+| Raccogliere armi                | Dissenso                  | Fama                   |
+| Colonizzare un mondo            | Educazione                | Formare una fazione    |
+| Impadronirsi della Corporazione | Divertirsi con la cultura | Infiltrazione          |
+| Entrare in un culto             | Intrappolare un PNG       | Informazioni riservate |
+| Progettare una nave             | Uguaglianza               | Investimento           |
+|                                 |                           |                        |
+| Uccidere un PNG                 | Pirateria                 | Scoprire un segreto    |
+| Libertà                         | Placare i nemici          | Usurpare una fazione   |
+| Controllo locale                | Politica                  | Affermare una divinità |
+| Amare la natura                 | Rivoluzione               | Vendetta               |
+| Notorietà                       | Diffusione di menzogne    | Voyeurismo             |
+| Filantropia                     | Accordo commerciale       | Ricchezza              |
+
+
+### Bonus dei PNG
+
+|                            |                                 |                      |
+| -------------------------- | ------------------------------- | -------------------- |
+| Accesso ad equipaggiamento | Ricattatore                     | Sangue freddo        |
+| Pilota d'asso              | Artista della truffa            | Esperto contrattante |
+| Sempre prudente            | Voltagabbana della Corporazione | Membro della fazione |
+| Sempre affascinante        | Tiratore scelto                 | Meccanico dotato     |
+| Sempre leale               | Broker di dati                  | Bravo con i contanti |
+| Famiglia numerosa          | Progettista esperto             | Bravo con le mappe   |
+|                            |                                 |                      |
+| Bravo con la tecnologia    | Senza legami familiari          | Alla moda            |
+| Ha legami                  | Deve favori                     | Molto attraente      |
+| Ha un rifugio sicuro       | Beni rari                       | Molto furtivo        |
+| Abile contrabbandiere      | Eroe regionale                  | Molto ricco          |
+| Conosce i segreti          | Rete di spionaggio              | Figlio di un VIP     |
+| Lieve telepatia            | Spregiudicato                   | Ben rispettato       |
+
+### Punti deboli dei PNG
+
+|                        |                            |                           |
+| ---------------------- | -------------------------- | ------------------------- |
+| Alcolizzato            | Spione abituale            | Doppiogiochista           |
+| Famiglia numerosa      | Dipendente da corporazioni | Tossicodipendente         |
+| Rischioso              | Codardo                    | Facilmente influenzabile  |
+| Taglia su di te        | Assapora la violenza       | Si diverte con la tortura |
+| Bugiardo cronico       | Gusto depravato            | Bersaglio di una fazione  |
+| Cospirazionista        | Dilettante                 | Dimentica le informazioni |
+|                        |                            |                           |
+| Scommesse clandestine  | Deve favori                | Ha la memoria corta       |
+| Impostore              | Paranoico                  | Socialmente inetto        |
+| Multipli rivali        | Piromane                   | Merce rubata              |
+| Senza legami familiari | Paria della regione        | Troppo fiducioso          |
+| In fuga                | Interesse personale        | Coscienza debole          |
+| Eccessiva indulgenza   | Gravi debiti               | Vi venderà                |
+
 ## Ringraziamenti
 Classic Traveller di Marc Miller, Into the Odd di Chris McDowall ed Escape Velocity della Ambrosia Software sono le ispirazioni principali di questo progetto. La teoria della ur-old-school di Norbert Matausch e la formattazione di Maze Rats di Ben Milton hanno aiutato moltissimo a definire questo documento e le sue meccaniche verso la massima sinteticità. Il feedback generoso e critico di Jeff Woodman, Dreaming Dragonslayer e Wizard Lizard ha trasformato un ammasso di idee incoerenti in un gioco chiaro e fruibile.
 
