@@ -320,6 +320,10 @@ I veicoli sono progettati e usati allo stesso modo delle astronavi. Usate le cat
 
 Quando si genera un settore e si stabilisce la distanza di un corsia di salto tra due diversi sistemi, tirate 3d6-2, scartando il risultato più alto. Si ottiene così una gittata da 0 a 10, tendendosi verso i valori più bassi dello spettro di gittata.
 
+Any time a jump is attempted, one member of the crew rolls to astrogate the jump lane (using the Astrogation skill, if applicable). On a miss, roll 1d6 against the misjump table.
+
+Ogni volta che si tenta un salto, un membro dell'equipaggio tira per astrografare la corsia di salto (usando l'abilità Astrogazione, se applicabile). Se sbaglia, si tira 1d6 sulla tabella dei salti errati.
+
 ### Salto Errato
 
 |     |                                                |
@@ -567,7 +571,7 @@ Le seguenti tabelle hanno 36 risultati e sono disposte in 6 gruppi di 6 risultat
 | Produzione           | Farmaceutici         | Veicoli           |
 | Mass media           | Propulsione          | Armi              |
 
-### Factions
+### Fazioni
 
 |             |                              |               |
 | ----------- | ---------------------------- | ------------- |
@@ -586,7 +590,7 @@ Le seguenti tabelle hanno 36 risultati e sono disposte in 6 gruppi di 6 risultat
 | Monastici   | Contrabbandieri              | Xenofobi      |
 
 
-### Trade Goods
+### Beni Commerciali
 
 |                  |                        |                            |
 | ---------------- | ---------------------- | -------------------------- |
