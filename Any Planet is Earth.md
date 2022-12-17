@@ -734,6 +734,156 @@ Le seguenti tabelle hanno 36 risultati e sono disposte in 6 gruppi di 6 risultat
 | Preciso       | Resiliente    | Ingannevole   |
 | Predatorio    | Selvaggio     | Imprevedibile |
 
+### Prefisso Nome Astronave
+
+|            |              |             |
+| ---------- | ------------ | ----------- |
+| Assoluto   | Luminoso     | Eterno      |
+| Abbondante | Curioso      | Stravagante |
+| Argent     | Temerario    | Genteel     |
+| Astrale    | Fioco        | Scorrevole  |
+| Arido      | Temibile     | Indomito    |
+| Sbieco     | Doveroso     | Di Ferro    |
+|            |              |             |
+| Nobile     | Ribelle      | Stallone    |
+| Oneroso    | Rivincente   | D'acciaio   |
+| Veloce     | Sfuggente    | Accurato    |
+| Piovoso    | Scintillante | Pensieroso  |
+| Lascivo    | Sinistro     | Fidato      |
+| Rabbioso   | Alto         | Zelante     |
+
+
+### Suffisso Nome Astronave
+
+|             |          |             |
+| ----------- | -------- | ----------- |
+| Agnello     | Sogno    | Incidente   |
+| Barone      | Ember    | Giudizio    |
+| Bastion     | Stocco   | Canaglia    |
+| Caimano     | Fascino  | Kraken      |
+| Pugnale     | Befana   | Lancia      |
+| Djinn       | Hauberk  | Luce        |
+|             |          |             |
+| Mago        | Pariah   | Spirito     |
+| Mantello    | Furfante | Surplus     |
+| Errore      | Ragione  | Viaggiatore |
+| Mendicante  | Saggio   | Vipera      |
+| Mente       | Marza    | Testimone   |
+| Prospettiva | Sciamano | Zefiro      |
+
+
+### Armi
+
+|                  |                     |                        |
+| ---------------- | ------------------- | ---------------------- |
+| Fucile d'assalto | Carabina            | Garrota                |
+| Autolaser        | Ariete per porte    | Bomboletta di gas      |
+| Blackjack        | Carica EMP          | Granata                |
+| Nocche d'ottone  | Lanciafiamme        | Torretta d'artiglieria |
+| Spadone          | Pistola lanciarazzi | Pistola a mano         |
+| C4               | Granata Flash       | Katana                 |
+|                  |                     |                        |
+| Katar            | Mina Proxy          | Fucile a pompa         |
+| Coltello         | Fucile a rotaia     | Mazza da guerra        |
+| Carabina laser   | Fucile              | SMG                    |
+| Fucile laser     | RPG                 | Carica sonica          |
+| Machete          | Guanti d'urto       | Ascia di sopravvivenza |
+| Mortaio          | Spada corta         | Taser                  |
+
+
+### Equipaggiamento
+
+|                            |                              |                              |
+| -------------------------- | ---------------------------- | ---------------------------- |
+| Serbatoio d'aria compressa | Tuta pulita                  | Tenda da campo               |
+| Saldatore ad arco          | Attrezzatura per arrampicata | Torcia elettrica             |
+| Armatura                   | Impianto di comunicazione    | Carburante                   |
+| Faro                       | Computer                     | Occhiali di protezione       |
+| Torcia elettrica           | Piede di porco               | Kit per materiale pericoloso |
+| Motosega                   | Drone                        | Isolamento                   |
+|                            |                              |                              |
+| Gingillo locale            | Utensile elettrico           | Lucchetto di sicurezza       |
+| Magnete                    | Mappa regionale              | Software                     |
+| Medkit                     | Kit di riparazione           | Libro di testo               |
+| Grasso per metalli         | Respiratore                  | Cianfrusaglie per turisti    |
+| Multitool                  | Corda                        | Tuta vaccinale               |
+| Tavoletta PAD              | Carico di scansione          | Purificatore d'acqua         |
+
+### Stranezze di esplorazione urbana
+
+|                                     |                            |                         |
+| ----------------------------------- | -------------------------- | ----------------------- |
+| Cibo incredibile                    | Costruzioni                | Grandi giardini         |
+| Architettura                        | Ufficio della corporazione | Truffa del truffatore   |
+| Segreti terribili                   | Fanatici del culto         | Festival                |
+| Mendicanti                          | Mod Cyber/G                | Telepatico              |
+| Hub della colonia                   | Scuola d'elite             | Turisti rumorosi        |
+| Complicazione                       | Incendio/disordine         | Corteo locale           |
+|                                     |                            |                         |
+| Patrono scomparso                   | Artefatto                  | Merchandising di strada |
+| Missionari                          | Spettacolo pubblico        | Cassaforte              |
+| Borseggiatori                       | Ubriachi chiassosi         | Metropolitana           |
+| Inseguimento da parte della polizia | Voce curiosa               | Mappa di valore         |
+| Droghe potenti                      | Giro di contrabbando       | Incidente di veicoli    |
+| Cantiere navale di primo livello    | Merce rubata               | Cestino delle armi      |
+
+
+### Stranezze di esplorazione planetaria
+
+|                       |                            |                      |
+| --------------------- | -------------------------- | -------------------- |
+| Scavo abbandonato     | Nave precipitata           | Merce illegale       |
+| Agroalimentare        | Eremita curioso            | Cratere di impatto   |
+| Maltempo              | Terremoto                  | Frana                |
+| Banditi               | Città fallita              | Famiglie locali      |
+| Cospiratori           | Inondazioni                | Artista solitario    |
+| Laboratorio aziendale | Città amica                | Base militare        |
+|                       |                            |                      |
+| Silo missilistico     | Cultisti disonesti         | Telepatici           |
+| Vecchio edificio      | Città in rovina            | Campo terroristico   |
+| Volta della peste     | Animali selvaggi           | Piante tossiche      |
+| Elementi rari         | Affari sospetti            | Miniera inesplorata  |
+| Bunker dei ribelli    | Goccia del contrabbandiere | Signore della guerra |
+| Rifugiati             | Vista sublime              | Xenomonolite         |
+
+
+### Crisi
+
+|                                  |                         |                          |
+| -------------------------------- | ----------------------- | ------------------------ |
+| Dipendenza                       | Fallimento dei raccolti | Fioritura di funghi      |
+| Assassinio                       | Guerra culturale        | Brogli Elettorali        |
+| Allergie negative                | Decadenza               | Ondata di calore         |
+| Fuoriuscita di sostanze chimiche | Demagogia               | Pazzia                   |
+| Gelata                           | Crollo dell'economia    | Sciame di insetti        |
+| Collasso                         | Esplosione              | Invasione                |
+|                                  |                         |                          |
+| Perdita di beni                  | Oppressione             | Sequestro di ribelli     |
+| Perdita di morale                | Pandemia                | Zelo religioso           |
+| Perdita della vista              | Incursioni dei pirati   | Rivoluzione              |
+| Colpo di stato militare          | Scandalo pubblico       | Cambiamento tettonico    |
+| Mutazione                        | Fuga di radiazioni      | Sindacato di delinquenti |
+| Riti occulti                     | Incendi dilaganti       | Traffici illeciti        |
+
+
+### Modificazioni Cyber/Genetiche
+
+|                         |                        |                    |
+| ----------------------- | ---------------------- | ------------------ |
+| Mimetica avanzata       | Bomba sul petto        | Endo-armatura      |
+| Adrenostimolatore       | Zoccoli artigliati     | Manto di piume     |
+| Artigli animali         | Prisma della corteccia | Dito uplink        |
+| Antifreddo              | Trama dermica          | Follicolo Max™     |
+| Amplificatore uditivo   | Chip eidetico          | Mano con rampino   |
+| Allacciatura delle ossa | Dente EMP              | Ali di scorrimento |
+|                         |                        |                    |
+| Pistola smartlink       | Multi Vox™             | Jack Craniale      |
+| Olo-proiettore          | Filtro di naniti       | Pelleviscida™      |
+| Iper riflesso           | Neobranchie™           | Smartfagia         |
+| Infraottica             | HUD occulare           | Modem spinale      |
+| Caleidoscopio™          | Feromoni               | Sintofegato        |
+| Macro muscoli           | Protesi                | Braccio d'arma     |
+
 
 ## Ringraziamenti
 Classic Traveller di Marc Miller, Into the Odd di Chris McDowall ed Escape Velocity della Ambrosia Software sono le ispirazioni principali di questo progetto. La teoria della ur-old-school di Norbert Matausch e la formattazione di Maze Rats di Ben Milton hanno aiutato moltissimo a definire questo documento e le sue meccaniche verso la massima sinteticità. Il feedback generoso e critico di Jeff Woodman, Dreaming Dragonslayer e Wizard Lizard ha trasformato un ammasso di idee incoerenti in un gioco chiaro e fruibile.
