@@ -519,12 +519,12 @@ Le seguenti tabelle hanno 36 risultati e sono disposte in 6 gruppi di 6 risultat
 | Aristocratico           | Trafficante                      | Recrutatore              |
 | Mercante d'armi         | Celebrità                        | Leader di un culto       |
 | Direttore d'arte        | Supervisore coloniale            | Diplomatico              |
-| Direttore di banca      | Cospiratore                      | Guardiano del porto      |
-| Violatore di blocchi    | Impiegato aziendale              | Allevatore di esotici    |
+| Direttore di banca      | **Cospiratore**                      | Guardiano del porto      |
+| Violatore di blocchi    | Impiegato **corporativo**              | Allevatore di esotici    |
 | Procacciatore di taglie | Supervisore di missioni speciali | Viaggiatore di frontiera |
 |                         |                                  |                          |
-| Finanziere              | Capo della milizia               | Architetto di navi       |
-| Capo ricercatore        | Ufficiale di Marina              | Magnate del commercio    |
+| Finanziere              | Capo della milizia               | Architetto di **navi**       |
+| Capo ricercatore        | Ufficiale di Marina              | Magnate del **commercio**    |
 | Governatore locale      | Capitano di pirati               | Alto clero               |
 | Magistrato              | Investigatore privato            | Artista d'armi           |
 | Fabbricante             | Capo dei ribelli                 | Agente segreto           |
@@ -625,66 +625,123 @@ Le seguenti tabelle hanno 36 risultati e sono disposte in 6 gruppi di 6 risultat
 
 ### Obiettivi PNG
 
-|                                 |                           |                        |
-| ------------------------------- | ------------------------- | ---------------------- |
-| Aiutare una cospirazione        | Scoperta                  | Esplorazione           |
-| Raccogliere armi                | Dissenso                  | Fama                   |
-| Colonizzare un mondo            | Educazione                | Formare una fazione    |
-| Impadronirsi della Corporazione | Divertirsi con la cultura | Infiltrazione          |
-| Entrare in un culto             | Intrappolare un PNG       | Informazioni riservate |
-| Progettare una nave             | Uguaglianza               | Investimento           |
-|                                 |                           |                        |
-| Uccidere un PNG                 | Pirateria                 | Scoprire un segreto    |
-| Libertà                         | Placare i nemici          | Usurpare una fazione   |
-| Controllo locale                | Politica                  | Affermare una divinità |
-| Amare la natura                 | Rivoluzione               | Vendetta               |
-| Notorietà                       | Diffusione di menzogne    | Voyeurismo             |
-| Filantropia                     | Accordo commerciale       | Ricchezza              |
+|                                     |                           |                          |
+| ----------------------------------- | ------------------------- | ------------------------ |
+| Aiutare una **cospirazione**        | Scoperta                  | Esplorazione             |
+| Raccogliere **armi**                | Dissenso                  | Fama                     |
+| Colonizzare un **mondo**            | Educazione                | Formare una **fazione**  |
+| Impadronirsi della **Corporazione** | Divertirsi con la cultura | Infiltrazione            |
+| Entrare in un culto                 | Intrappolare un **PNG**   | Informazioni riservate   |
+| Progettare una **nave**             | Uguaglianza               | Investimento             |
+|                                     |                           |                          |
+| Uccidere un **PNG**                 | Pirateria                 | Scoprire un segreto      |
+| Libertà                             | Placare i nemici          | Usurpare una **fazione** |
+| Controllo locale                    | Politica                  | Affermare una divinità   |
+| Amare la natura                     | Rivoluzione               | Vendetta                 |
+| Notorietà                           | Diffusione di menzogne    | Voyeurismo               |
+| Filantropia                         | Accordo commerciale       | Ricchezza                |
 
 
 ### Bonus dei PNG
 
-|                            |                                 |                      |
-| -------------------------- | ------------------------------- | -------------------- |
-| Accesso ad equipaggiamento | Ricattatore                     | Sangue freddo        |
-| Pilota d'asso              | Artista della truffa            | Esperto contrattante |
-| Sempre prudente            | Voltagabbana della Corporazione | Membro della fazione |
-| Sempre affascinante        | Tiratore scelto                 | Meccanico dotato     |
-| Sempre leale               | Broker di dati                  | Bravo con i contanti |
-| Famiglia numerosa          | Progettista esperto             | Bravo con le mappe   |
-|                            |                                 |                      |
-| Bravo con la tecnologia    | Senza legami familiari          | Alla moda            |
-| Ha legami                  | Deve favori                     | Molto attraente      |
-| Ha un rifugio sicuro       | Beni rari                       | Molto furtivo        |
-| Abile contrabbandiere      | Eroe regionale                  | Molto ricco          |
-| Conosce i segreti          | Rete di spionaggio              | Figlio di un VIP     |
-| Lieve telepatia            | Spregiudicato                   | Ben rispettato       |
+|                            |                                     |                           |
+| -------------------------- | ----------------------------------- | ------------------------- |
+| Accesso ad equipaggiamento | Ricattatore                         | Sangue freddo             |
+| Pilota d'asso              | Artista della truffa                | Esperto contrattante      |
+| Sempre prudente            | Voltagabbana della **Corporazione** | Membro di una **fazione** |
+| Sempre affascinante        | Tiratore scelto                     | Meccanico dotato          |
+| Sempre leale               | Broker di dati                      | Bravo con i contanti      |
+| Famiglia numerosa          | Progettista esperto                 | Bravo con le mappe        |
+|                            |                                     |                           |
+| Bravo con la tecnologia    | Senza legami familiari              | Alla moda                 |
+| Ha legami                  | Deve favori                         | Molto attraente           |
+| Ha un rifugio sicuro       | **Beni** rari                       | Molto furtivo             |
+| Abile contrabbandiere      | Eroe regionale                      | Molto ricco               |
+| Conosce i segreti          | Rete di spionaggio                  | Figlio di un VIP          |
+| Lieve telepatia            | Spregiudicato                       | Ben rispettato            |
 
 ### Punti deboli dei PNG
 
-|                        |                            |                           |
-| ---------------------- | -------------------------- | ------------------------- |
-| Alcolizzato            | Spione abituale            | Doppiogiochista           |
-| Famiglia numerosa      | Dipendente da corporazioni | Tossicodipendente         |
-| Rischioso              | Codardo                    | Facilmente influenzabile  |
-| Taglia su di te        | Assapora la violenza       | Si diverte con la tortura |
-| Bugiardo cronico       | Gusto depravato            | Bersaglio di una fazione  |
-| Cospirazionista        | Dilettante                 | Dimentica le informazioni |
-|                        |                            |                           |
-| Scommesse clandestine  | Deve favori                | Ha la memoria corta       |
-| Impostore              | Paranoico                  | Socialmente inetto        |
-| Multipli rivali        | Piromane                   | Merce rubata              |
-| Senza legami familiari | Paria della regione        | Troppo fiducioso          |
-| In fuga                | Interesse personale        | Coscienza debole          |
-| Eccessiva indulgenza   | Gravi debiti               | Vi venderà                |
+|                        |                              |                              |
+| ---------------------- | ---------------------------- | ---------------------------- |
+| Alcolizzato            | Spione abituale              | Doppiogiochista              |
+| Famiglia numerosa      | Piazzato da **corporazioni** | Tossicodipendente            |
+| Rischioso              | Codardo                      | Facilmente influenzabile     |
+| Taglia su di te        | Assapora la violenza         | Si diverte con la tortura    |
+| Bugiardo cronico       | Gusto depravato              | Bersaglio di una **fazione** |
+| **Cospirazionista**    | Dilettante                   | Dimentica le informazioni    |
+|                        |                              |                              |
+| Scommesse clandestine  | Deve favori                  | Ha la memoria corta          |
+| Impostore              | Paranoico                    | Socialmente inetto           |
+| Multipli rivali        | Piromane                     | **Merce** rubata             |
+| Senza legami familiari | Paria della regione          | Troppo fiducioso             |
+| In fuga                | Interesse personale          | Coscienza debole             |
+| Eccessiva indulgenza   | Gravi debiti                 | Vi venderà                   |
+
+### Cospirazioni
+
+|                       |                          |                          |
+| --------------------- | ------------------------ | ------------------------ |
+| Rapimento alieno      | Navi oscure              | Precursori               |
+| Cloni Androidi        | Eminenze Grigie          | Incidenti con carburanti |
+| Culto dell'Apocalisse | Potere demoniaco         | Manipolatori Mod-G       |
+| Biospionaggio         | Scomparse                | Batterie umane           |
+| Piramide nera         | Spazio fluido            | Culto della lucertola    |
+| Cronoviaggio          | Clonazione forzata       | Wormholes locali         |
+|                       |                          |                          |
+| Controllo dei media   | Parapsicologia           | Entità stellari          |
+| Tritacarne mentali    | Planet X                 | Cabala stellare          |
+| Universo specchio     | Censura                  | Il Cubo del Tempo        |
+| Oligarchia            | Tracciamento RFID        | Vaccinazione             |
+| Antichi Dei Esterni   | Virus IA fuori controllo | Manipolazione dell'acqua |
+| Pandimensioni         | Mutaforma                | Unica Mente Xeno         |
+
+
+### Complicazioni
+
+|                            |                          |                     |
+| -------------------------- | ------------------------ | ------------------- |
+| Abbondanza                 | Chimico                  | Esistenziale        |
+| Avversario                 | Confusione               | Estorsione          |
+| Atmosfera                  | Inganno                  | Costo supplementare |
+| Cattive notizie            | Ritardo                  | Lavoro in più       |
+| Tradimento                 | Elettricità              | Fuoco               |
+| Ricatto                    | Entropia                 | Dimenticanza        |
+|                            |                          |                     |
+| Guasto all'equipaggiamento | Militanti                | Truffa              |
+| Ingorgo                    | Morale                   | Minaccia            |
+| Infezione                  | Interruzione di servizio | Disordini           |
+| Ferita                     | Burocrazia               | Vuoto               |
+| Problemi con la legge      | Perdita di risorse       | Tempo atmosferico   |
+| Errore macchina            | Sicurezza                | Fauna selvatica     |
+
+
+### Descrizione di creature/nemici
+
+|               |               |               |
+| ------------- | ------------- | ------------- |
+| Aggressivo    | Disorientante | Furioso       |
+| Corazzato     | Evasivo       | Molesto       |
+| Bruto         | Esotico       | Pesante       |
+| Intelligente  | Fanatico      | Insultante    |
+| Ingannevole   | Veloce        | Leggero       |
+| Disabilitante | Impavido      | Elegante      |
+|               |               |               |
+| Manipolatore  | Predittivo    | Escavatore    |
+| Impietoso     | Protettivo    | Tattico       |
+| Non letale    | Orgoglioso    | Ladro         |
+| Giocherellona | Implacabile   | Traditore     |
+| Preciso       | Resiliente    | Ingannevole   |
+| Predatorio    | Selvaggio     | Imprevedibile |
+
 
 ## Ringraziamenti
 Classic Traveller di Marc Miller, Into the Odd di Chris McDowall ed Escape Velocity della Ambrosia Software sono le ispirazioni principali di questo progetto. La teoria della ur-old-school di Norbert Matausch e la formattazione di Maze Rats di Ben Milton hanno aiutato moltissimo a definire questo documento e le sue meccaniche verso la massima sinteticità. Il feedback generoso e critico di Jeff Woodman, Dreaming Dragonslayer e Wizard Lizard ha trasformato un ammasso di idee incoerenti in un gioco chiaro e fruibile.
 
-**Progetto**: Jim Parkin (CC BY 4.0)
+**Progettazione**: Jim Parkin (CC BY 4.0)
 
-> **Annowme** - d66kobolds.blogspot.com
-> 
+\> **Annowme** - d66kobolds.blogspot.com
+ 
 “**Qualsiasi pianeta** è 'Terra' per coloro che ci abitano” ~ **Isaac Asimov, *Paria dei cieli***
 
 *Traduzione per l'Italian Translation Alliance a cura di Roberto Bisceglie*
