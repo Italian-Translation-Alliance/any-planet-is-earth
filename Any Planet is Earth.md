@@ -1,7 +1,7 @@
 # Any Planet is Earth
 ## Toolkit per avventure fantascientifiche
 
-*Any Planet Is Earth* è un insieme di linee guida sandbox per la creazione di un'avventura in un futuro prossimo/lontano.
+*Any Planet is Earth* è un insieme di linee guida sandbox per la creazione di un'avventura in un futuro prossimo/lontano.
 
 I numeri sono in sostanza poco importanti in termini di attributi del personaggio e di incontri. Le regole fanno da cornice a un crogiolo di improvvisazione per dramma e avventure insolite. I giocatori e i loro personaggi (PG) si uniscono per definire obiettivi basati sull'ambientazione e sugli spunti forniti dall'arbitro, ma ancora di più dalla propria ambizione all'interno del mondo di gioco. Il gioco è diegetico, vale a dire che tutto è costruito dalle circostanze realistiche in cui i giocatori svolgono il loro lavoro, le loro missioni e i periodi di inattività.
 
@@ -28,7 +28,7 @@ Il danno è inflitto automaticamente con colpi diretti **senza l'uso di dadi** e
 I PG e i PNG possono aggiungere +1 colpo per l'uso di armi con la capacità (auto), quindi tirano immediatamente 1d6 (1 scarico, 2-3 un solo colpo rimasto, 4-6 tutto a posto). Le corazze (leggere) non assorbono solitamente alcun colpo, le corazze assorbono 1 colpo e le corazze (pesanti) 2.
 
 ## Diegesi e contesto
-Entrate in una stanza. C'é un bicchiere su un tavolo. Prendete il bicchiere. Adesso avete il bicchiere. *Questa è diegesi*. I giocatori e l'arbitro devono essere ragionevoli e ingaggiare il realismo del mondo di gioco. Ogni luogo è pieno di *cose*. Le situazioni dovrebbero essere affrontate e risolte con pensiero laterale basato sull'effettivo contesto prima di avvalersi dei dadi. Se siete esposti e in forte svantaggio, un pugnale alla vostra gola vi ucciderà, a prescindere dal vostro costoso equipaggiamento e la vostra impressionante preparazione.
+Entrate in una stanza. C'è un bicchiere su un tavolo. Prendete il bicchiere. Adesso avete il bicchiere. *Questa è diegesi*. I giocatori e l'arbitro devono essere ragionevoli e ingaggiare il realismo del mondo di gioco. Ogni luogo è pieno di *cose*. Le situazioni dovrebbero essere affrontate e risolte con pensiero laterale basato sull'effettivo contesto prima di avvalersi dei dadi. Se siete esposti e in forte svantaggio, un pugnale alla vostra gola vi ucciderà, a prescindere dal vostro costoso equipaggiamento e la vostra impressionante preparazione.
 
 ## Nemici e combattimento
 Nemici tipici che desiderano danneggiare l'equipaggio hanno 4 colpi e corazze. Se sono presenti nemici particolarmente pericolosi, date loro 5 colpi e/o corazze (pesanti) e una serie di armi e tattiche più esotiche.
@@ -65,8 +65,8 @@ I PG sono capaci di gestire tutte le più comuni armi, computer e veicoli senza 
 ## Statistiche
 Tirate 2d6 in ordine per determinare i valori
 
-FOR - Forza: muscoli, resilienza
-DES - Destrezza: agilità, riflessi
+FOR - Forza: muscoli, resilienza  
+DES - Destrezza: agilità, riflessi  
 SOC - Socievolezza: volontà, decoro
 
 Se il punteggio è 10+, annotate "forte" per FOR, "agile" per DES o "raffinato" per SOC. Se il punteggio è 4-, annotato "debole" per FOR, "impacciato" per DES o "rozzo" per SOC. Altrimenti non registrate alcuna statistica numerica. Alcuni PG potranno avere più descrittori, mentre altri potrebbero non averne affatto.
@@ -209,7 +209,7 @@ Molti eventi, incidenti e vantaggi sono deliberatamente lasciati aperti all'inte
 | 13  | SOC +2                  |
 | 14  | Nome Nave               |
 
-Quando avviene il congedo da tutti i servizi, **definite un obiettivo personale per il vostro PG** (che sia ricchezza, tecnologia,prestigio, etc.), quindi tirate 1d6 sulle tabelle dei benefici che seguono per ogni periodo completato:
+Quando avviene il congedo da tutti i servizi, **definite un obiettivo personale per il vostro PG** (che sia ricchezza, tecnologia, prestigio, etc.), quindi tirate 1d6 sulle tabelle dei benefici che seguono per ogni periodo completato:
 
 ### Benefici Militari
 
@@ -256,9 +256,9 @@ Per semplificare la gestione, il raggio d'azione è relativo e viene indicato in
 | Spazio    | Visibile | < 3k mi  | < 10k mi |
 
 ## Ricchezza
-I viaggi interstellari e quelli nei sistemi stellari locali non necessitano di una moneta emessa da un ente centrale. Il commercio alla scala di una singola nave e del suo equipaggio riguarda più che i "crediti", i manifesti di carico e i beni commerciati. La ricchezza a livello stellare si basa quindi sul baratto, mentre le valute sono utilizzate a livello locale. 
+I viaggi interstellari e quelli nei sistemi stellari locali non necessitano di una moneta emessa da un ente centrale. Il commercio alla scala di una singola nave e del suo equipaggio riguarda più che i "crediti", i manifesti di carico e i beni commerciati. La ricchezza a livello stellare si basa quindi sul baratto, mentre le valute sono utilizzate a livello locale.
 
-La ricchezza si divide in tre categorie, ognuna misurata da 0 a 12. 
+La ricchezza si divide in tre categorie, ognuna misurata da 0 a 12.
 
 I **contanti** rappresentano la spesa giornaliera/settimanale, ad esempio le manutenzioni ordinarie.
 
@@ -344,7 +344,7 @@ Trattate tutto ciò che diventa determinante per un PG come un nuovo obiettivo p
 ## Il dado d'incontro
 L'azione di giocatori e PG è solitamente sufficiente per spingere avanti le cose. Quando siete in dubbio, tirate 1d6 durante una pausa o dopo che è trascorso un certo intervallo di tempo per far avanzare immediatamente la situazione.
 
-### Esplorazione di siti (astronavi, edifici) 
+### Esplorazione di siti (astronavi, edifici)
 Tirate dopo un breve viaggio sotto pressione o in prossimità di PNG/fazioni. Altrimenti, tirate
 quando l'equipaggio non riesce a decidere cosa fare dopo.
 
@@ -383,7 +383,7 @@ Tirate 1 volta al giorno, o quando l'equipaggio rompe lo status quo nell'ambient
 
 
 ## Consigli per l'arbitro
-Any Planet Is Earth non ha limiti ben definiti. Il fulcro dell'avventura sono la verosimiglianza, la consistenza e la catena ininterrotta di causalità. Mentre l'equipaggio viaggia, scoprirà ce l'intera galassia è aperta e senza confini. Le minuzie irrilevanti possono essere messe da parte, dato che ciò che conta sono le decisioni, le complicazioni e le conseguenze degli spostamenti dei giocatori. Considerate che il "denaro" è fluido in un contesto di spazio interstellare, difficile da definire e impossibile da padroneggiare. La richiesta di beni e servizi varia da porto a porto, da mondo a mondo, da sistema a sistema.
+Any Planet is Earth non ha limiti ben definiti. Il fulcro dell'avventura sono la verosimiglianza, la consistenza e la catena ininterrotta di causalità. Mentre l'equipaggio viaggia, scoprirà ce l'intera galassia è aperta e senza confini. Le minuzie irrilevanti possono essere messe da parte, dato che ciò che conta sono le decisioni, le complicazioni e le conseguenze degli spostamenti dei giocatori. Considerate che il "denaro" è fluido in un contesto di spazio interstellare, difficile da definire e impossibile da padroneggiare. La richiesta di beni e servizi varia da porto a porto, da mondo a mondo, da sistema a sistema.
 
 Lasciate che un PG truffi un mercante o che eserciti il proprio mestiere in totale onestà. Lasciate che un PG uccida con una coltellata un mercenario pesantemente armato, approfittando di una buona opportunità che il giocatore sceglie di sfruttare a proprio rischio e pericolo.
 
@@ -394,7 +394,7 @@ Indipendentemente dalla rotta, la galassia è vostra. Decidete voi cosa succede,
 
 Questo tipo di gioco non si basa sui numeri o sullo sblocco di combo o sul perfezionare la costruzione di un personaggio. Siete dei cittadini erranti di un mondo/sistema/settore vicino che si avventurano là fuori per costruirsi una reputazione seguendo una rigorosa carriera. Sta a voi alzare la posta. Le vicine stelle luminose sono là per soddisfare i vostri desideri e le vostre ambizioni.
 
-Fate domande. Ottenete informazioni. Fate pressioni. Soprattutto, perseguite obiettivi e tracciate la vostra rotta. 
+Fate domande. Ottenete informazioni. Fate pressioni. Soprattutto, perseguite obiettivi e tracciate la vostra rotta.
 
 ## Esempio di gioco
 La nave dell'equipaggio, l'Argent Rascal, atterra per essere riparata dopo aver subito ingenti danni a causa di uno scontro con i corsari della corsia di salto.
@@ -468,6 +468,7 @@ Le seguenti tabelle hanno 36 risultati e sono disposte in 6 gruppi di 6 risultat
 | Censur    | Husta   | Luxxottica |
 | Dayes     | Ikeel   | Miranu     |
 | Elnorath  | Jil     | Moroes     |
+|           |         |            |
 | Nesre     | Regin   | Ulphara    |
 | Occulus   | Romit   | Verdrem    |
 | Orsis     | Sess    | Wholthia   |
@@ -504,7 +505,7 @@ Le seguenti tabelle hanno 36 risultati e sono disposte in 6 gruppi di 6 risultat
 | <10, orbitale  | 100K+, 1g      | 100M+, 2g       |
 | 10+, 1/2g      | 100K+, 2g      | 10G+, 1g        |
 | 10+, 2g        | 100K+, luna    | 10G+, 2g        |
-|                |                |             |
+|                |                |                 |
 | 10K+, 1g       | 1K+, 1/2g      | 1M, 1g          |
 | 10K+, orbitale | 1K+, 1g        | 1M+, 1/2g       |
 | 10M, 1/2g      | 1K+, asteroide | 1M+, 2g         |
@@ -517,15 +518,15 @@ Le seguenti tabelle hanno 36 risultati e sono disposte in 6 gruppi di 6 risultat
 
 |                         |                                  |                          |
 | ----------------------- | -------------------------------- | ------------------------ |
-| Aristocratico           | Trafficante                      | Recrutatore              |
+| Aristocratico           | Trafficante                      | Reclutatore              |
 | Mercante d'armi         | Celebrità                        | Leader di un culto       |
 | Direttore d'arte        | Supervisore coloniale            | Diplomatico              |
-| Direttore di banca      | **Cospiratore**                      | Guardiano del porto      |
-| Violatore di blocchi    | Impiegato **corporativo**              | Allevatore di esotici    |
+| Direttore di banca      | **Cospiratore**                  | Guardiano del porto      |
+| Violatore di blocchi    | Impiegato **corporativo**        | Allevatore di esotici    |
 | Procacciatore di taglie | Supervisore di missioni speciali | Viaggiatore di frontiera |
 |                         |                                  |                          |
-| Finanziere              | Capo della milizia               | Architetto di **navi**       |
-| Capo ricercatore        | Ufficiale di Marina              | Magnate del **commercio**    |
+| Finanziere              | Capo della milizia               | Architetto di **navi**   |
+| Capo ricercatore        | Ufficiale di Marina              | Magnate del **commercio**|
 | Governatore locale      | Capitano di pirati               | Alto clero               |
 | Magistrato              | Investigatore privato            | Artista d'armi           |
 | Fabbricante             | Capo dei ribelli                 | Agente segreto           |
@@ -550,7 +551,7 @@ Le seguenti tabelle hanno 36 risultati e sono disposte in 6 gruppi di 6 risultat
 | Canaglia       | Stivale         | Veterinario |
 
 
-### Corporationi
+### Corporazioni
 
 |                      |                      |                   |
 | -------------------- | -------------------- | ----------------- |
@@ -881,7 +882,7 @@ Le seguenti tabelle hanno 36 risultati e sono disposte in 6 gruppi di 6 risultat
 | Pistola smartlink       | Multi Vox™             | Jack Craniale      |
 | Olo-proiettore          | Filtro di naniti       | Pelleviscida™      |
 | Iper riflesso           | Neobranchie™           | Smartfagia         |
-| Infraottica             | HUD occulare           | Modem spinale      |
+| Infraottica             | HUD oculare            | Modem spinale      |
 | Caleidoscopio™          | Feromoni               | Sintofegato        |
 | Macro muscoli           | Protesi                | Braccio d'arma     |
 
@@ -892,7 +893,7 @@ Classic Traveller di Marc Miller, Into the Odd di Chris McDowall ed Escape Veloc
 **Progettazione**: Jim Parkin (CC BY 4.0)
 
 \> **Annowme** - d66kobolds.blogspot.com
- 
+
 “**Qualsiasi pianeta** è 'Terra' per coloro che ci abitano” ~ **Isaac Asimov, *Paria dei cieli***
 
 *Traduzione per l'Italian Translation Alliance a cura di Roberto Bisceglie*
