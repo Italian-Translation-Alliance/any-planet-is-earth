@@ -574,7 +574,7 @@ Le seguenti tabelle hanno 36 risultati e sono disposte in 6 gruppi di 6 risultat
 |             |                              |               |
 | ----------- | ---------------------------- | ------------- |
 | Agrariani   | Capitalisti                  | Futuristi     |
-| Anarchici   | Conflagratori, Modellatori G |               |
+| Anarchici   | Conflagratori                | Modellatori G |
 | Assassini   | Cibernetici                  | Geofili       |
 | Bolscevichi | Daemonici                    | Cacciatori    |
 | Borgomastri | Familiaristi                 | Illuminati    |
